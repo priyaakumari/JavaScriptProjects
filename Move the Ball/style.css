@@ -1,0 +1,25 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+
+
+#ball{
+    height: 150px;
+    width: 150px;
+    left: 1px;
+    top: 1px;
+    
+    border-radius: 100%;
+    background-color: blue;
+    position: absolute;
+    float: left;
+    display: inline;
+    box-sizing: border-box;
+	padding-top: 60px;
+	padding-left: 53px; 
+    transition: .5s;
+
+}
