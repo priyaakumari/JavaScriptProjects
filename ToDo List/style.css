@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(56, 216, 181);
+    
+}
+
+#container{
+    /* position: relative; */
+    text-align: center;
+    top: 20px;
+}
+
+
+#task{
+    height: 25px;
+    width: 300px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#task1{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#task-counter ,#cnt{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
